@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🧙‍♂️ Programmer/developer 
- 🤖 Languages: ABAP, Java, Python, Javascript, C#, C++, C, Basic, Pascal
+ 🧙‍♂️ Programmer/developer <br>
+ 🤖 Languages: ABAP, Java, Python, Javascript, C#, C++, C, Basic, Pascal <br>
