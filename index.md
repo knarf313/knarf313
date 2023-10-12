@@ -6,6 +6,6 @@ author: knarf313
 
 I am knarf313
 
-![tacocat](https://github.com/knarf313/knarf313/blob/main/_images/tacocat_.png)
+![tacocat](https://raw.githubusercontent.com/knarf313/knarf313/main/_images/tacocat_.png)
 
 Here I keep a blog to track my progress in GitHub.
