@@ -2,6 +2,6 @@
 title: Welcome to my Blog
 author: knarf313
 ---
-# Welcome to my Blog
+# Welcome
 
 I am knarf313
