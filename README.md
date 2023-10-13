@@ -17,3 +17,6 @@ Here are some ideas to get you started:
  🧙‍♂️ Programmer/developer <br>
  🤖 Languages: ABAP, Java, Python, Javascript, C#, C++, C, Basic, Pascal <br>
  🐲 Fun: html, html5, css and javascript to build interactive pages with puzzle games
+
+
+📖 [my blog](https://knarf313.github.io/knarf313/)
