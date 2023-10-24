@@ -1,7 +1,7 @@
 ---
+Title: Merge conflics
 Date: 2023-10-24
 Author: Knarf313
-Title: Merge conflics
 ---
 
 Worked on (Megre conflics)[https://github.com/skills/resolve-merge-conflicts] <br>
